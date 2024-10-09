@@ -1,0 +1,3118 @@
+﻿{
+  "events": [
+    {
+      "tStartMs": 11676.5873015873,
+      "dDurationMs": 360.412698412698,
+      "segs": [
+        {
+          "utf8": "ぶ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 12038,
+      "dDurationMs": 454,
+      "segs": [
+        {
+          "utf8": "つ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 12493,
+      "dDurationMs": 237,
+      "segs": [
+        {
+          "utf8": "け"
+        }
+      ]
+    },
+    {
+      "tStartMs": 12731,
+      "dDurationMs": 666,
+      "segs": [
+        {
+          "utf8": "た"
+        }
+      ]
+    },
+    {
+      "tStartMs": 13709.2857142857,
+      "dDurationMs": 969,
+      "segs": [
+        {
+          "utf8": "ところ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 14679.2857142857,
+      "dDurationMs": 436.714285714286,
+      "segs": [
+        {
+          "utf8": "か"
+        }
+      ]
+    },
+    {
+      "tStartMs": 15117,
+      "dDurationMs": 1333,
+      "segs": [
+        {
+          "utf8": "ら"
+        }
+      ]
+    },
+    {
+      "tStartMs": 16975.1044973545,
+      "dDurationMs": 1478.40740740741,
+      "segs": [
+        {
+          "utf8": "<br>熟れていく"
+        }
+      ]
+    },
+    {
+      "tStartMs": 18454.5119047619,
+      "dDurationMs": 1379,
+      "segs": [
+        {
+          "utf8": "果実の"
+        }
+      ]
+    },
+    {
+      "tStartMs": 19834.5119047619,
+      "dDurationMs": 507.488095238092,
+      "segs": [
+        {
+          "utf8": "よ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 20343,
+      "dDurationMs": 163.511904761908,
+      "segs": [
+        {
+          "utf8": "う"
+        }
+      ]
+    },
+    {
+      "tStartMs": 20507.5119047619,
+      "dDurationMs": 916,
+      "segs": [
+        {
+          "utf8": "に"
+        }
+      ]
+    },
+    {
+      "tStartMs": 21804.8835978836,
+      "dDurationMs": 650,
+      "segs": [
+        {
+          "utf8": "<br>僕らは"
+        }
+      ]
+    },
+    {
+      "tStartMs": 22455.8835978836,
+      "dDurationMs": 1036,
+      "segs": [
+        {
+          "utf8": "些細"
+        }
+      ]
+    },
+    {
+      "tStartMs": 23492.8835978836,
+      "dDurationMs": 297,
+      "segs": [
+        {
+          "utf8": "な"
+        }
+      ]
+    },
+    {
+      "tStartMs": 23790.8835978836,
+      "dDurationMs": 902,
+      "segs": [
+        {
+          "utf8": "ことで"
+        }
+      ]
+    },
+    {
+      "tStartMs": 24812.9047619048,
+      "dDurationMs": 224,
+      "segs": [
+        {
+          "utf8": "<br>へ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 25037.9047619048,
+      "dDurationMs": 650,
+      "segs": [
+        {
+          "utf8": "こ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 25688.9047619048,
+      "dDurationMs": 436.095238095244,
+      "segs": [
+        {
+          "utf8": "た"
+        }
+      ]
+    },
+    {
+      "tStartMs": 26126,
+      "dDurationMs": 220,
+      "segs": [
+        {
+          "utf8": "れ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 26347,
+      "dDurationMs": 474,
+      "segs": [
+        {
+          "utf8": "た"
+        }
+      ]
+    },
+    {
+      "tStartMs": 26822,
+      "dDurationMs": 168,
+      "segs": [
+        {
+          "utf8": "よ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 26991,
+      "dDurationMs": 291,
+      "segs": [
+        {
+          "utf8": "な"
+        }
+      ]
+    },
+    {
+      "tStartMs": 27283,
+      "dDurationMs": 206.567460317459,
+      "segs": [
+        {
+          "utf8": "<br>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 27490.5674603175,
+      "dDurationMs": 162.432539682541,
+      "segs": [
+        {
+          "utf8": "<br>か"
+        }
+      ]
+    },
+    {
+      "tStartMs": 27654,
+      "dDurationMs": 507,
+      "segs": [
+        {
+          "utf8": "さ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 28162,
+      "dDurationMs": 147,
+      "segs": [
+        {
+          "utf8": "ぶ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 28310,
+      "dDurationMs": 703,
+      "segs": [
+        {
+          "utf8": "た"
+        }
+      ]
+    },
+    {
+      "tStartMs": 29248.3835978836,
+      "dDurationMs": 315.6164021164,
+      "segs": [
+        {
+          "utf8": "に"
+        }
+      ]
+    },
+    {
+      "tStartMs": 29565,
+      "dDurationMs": 699,
+      "segs": [
+        {
+          "utf8": "なれ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 30265.3835978836,
+      "dDurationMs": 466,
+      "segs": [
+        {
+          "utf8": "ず"
+        }
+      ]
+    },
+    {
+      "tStartMs": 30732.3835978836,
+      "dDurationMs": 1391,
+      "segs": [
+        {
+          "utf8": "に"
+        }
+      ]
+    },
+    {
+      "tStartMs": 32481.328042328,
+      "dDurationMs": 1245.29761904761,
+      "segs": [
+        {
+          "utf8": "<br>息せき"
+        }
+      ]
+    },
+    {
+      "tStartMs": 33727.6256613757,
+      "dDurationMs": 971.374338624344,
+      "segs": [
+        {
+          "utf8": "切って"
+        }
+      ]
+    },
+    {
+      "tStartMs": 34700,
+      "dDurationMs": 651,
+      "segs": [
+        {
+          "utf8": "がむ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 35352,
+      "dDurationMs": 618,
+      "segs": [
+        {
+          "utf8": "しゃら"
+        }
+      ]
+    },
+    {
+      "tStartMs": 35971,
+      "dDurationMs": 1152,
+      "segs": [
+        {
+          "utf8": "に"
+        }
+      ]
+    },
+    {
+      "tStartMs": 37345.6706349206,
+      "dDurationMs": 401.329365079371,
+      "segs": [
+        {
+          "utf8": "<br>輝"
+        }
+      ]
+    },
+    {
+      "tStartMs": 37748,
+      "dDurationMs": 184,
+      "segs": [
+        {
+          "utf8": "く"
+        }
+      ]
+    },
+    {
+      "tStartMs": 37933,
+      "dDurationMs": 990,
+      "segs": [
+        {
+          "utf8": "一等星"
+        }
+      ]
+    },
+    {
+      "tStartMs": 38924,
+      "dDurationMs": 148,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 39073,
+      "dDurationMs": 584,
+      "segs": [
+        {
+          "utf8": "めが"
+        }
+      ]
+    },
+    {
+      "tStartMs": 39658,
+      "dDurationMs": 301,
+      "segs": [
+        {
+          "utf8": "け"
+        }
+      ]
+    },
+    {
+      "tStartMs": 39960,
+      "dDurationMs": 232,
+      "segs": [
+        {
+          "utf8": "て"
+        }
+      ]
+    },
+    {
+      "tStartMs": 40360.4576719577,
+      "dDurationMs": 213,
+      "segs": [
+        {
+          "utf8": "<br>手"
+        }
+      ]
+    },
+    {
+      "tStartMs": 40574.4576719577,
+      "dDurationMs": 663.54232804232,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 41239,
+      "dDurationMs": 444,
+      "segs": [
+        {
+          "utf8": "伸"
+        }
+      ]
+    },
+    {
+      "tStartMs": 41684,
+      "dDurationMs": 194,
+      "segs": [
+        {
+          "utf8": "ば"
+        }
+      ]
+    },
+    {
+      "tStartMs": 41879,
+      "dDurationMs": 396,
+      "segs": [
+        {
+          "utf8": "し"
+        }
+      ]
+    },
+    {
+      "tStartMs": 42276,
+      "dDurationMs": 251,
+      "segs": [
+        {
+          "utf8": "た"
+        }
+      ]
+    },
+    {
+      "tStartMs": 42528,
+      "dDurationMs": 380,
+      "segs": [
+        {
+          "utf8": "よ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 42909,
+      "dDurationMs": 2385,
+      "segs": [
+        {
+          "utf8": "な"
+        }
+      ]
+    },
+    {
+      "tStartMs": 45295,
+      "dDurationMs": 196,
+      "segs": [
+        {
+          "utf8": "<br>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 45736.7724867725,
+      "dDurationMs": 1088.22751322751,
+      "segs": [
+        {
+          "utf8": "<br>繊細されど"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46826,
+      "dDurationMs": 394,
+      "segs": [
+        {
+          "utf8": "大"
+        }
+      ]
+    },
+    {
+      "tStartMs": 47221,
+      "dDurationMs": 523,
+      "segs": [
+        {
+          "utf8": "胆"
+        }
+      ]
+    },
+    {
+      "tStartMs": 47745,
+      "dDurationMs": 231,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 48146.335978836,
+      "dDurationMs": 327,
+      "segs": [
+        {
+          "utf8": "<br>うる"
+        }
+      ]
+    },
+    {
+      "tStartMs": 48679.7843915344,
+      "dDurationMs": 320.215608465616,
+      "segs": [
+        {
+          "utf8": "さい"
+        }
+      ]
+    },
+    {
+      "tStartMs": 49001,
+      "dDurationMs": 529,
+      "segs": [
+        {
+          "utf8": "これが"
+        }
+      ]
+    },
+    {
+      "tStartMs": 49531,
+      "dDurationMs": 792,
+      "segs": [
+        {
+          "utf8": "切り札"
+        }
+      ]
+    },
+    {
+      "tStartMs": 50324,
+      "dDurationMs": 348,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 50958.2063492064,
+      "dDurationMs": 612.793650793647,
+      "segs": [
+        {
+          "utf8": "<br>泣き虫"
+        }
+      ]
+    },
+    {
+      "tStartMs": 51572,
+      "dDurationMs": 476,
+      "segs": [
+        {
+          "utf8": "されど"
+        }
+      ]
+    },
+    {
+      "tStartMs": 52049,
+      "dDurationMs": 217,
+      "segs": [
+        {
+          "utf8": "熱"
+        }
+      ]
+    },
+    {
+      "tStartMs": 52366,
+      "dDurationMs": 587,
+      "segs": [
+        {
+          "utf8": "血"
+        }
+      ]
+    },
+    {
+      "tStartMs": 52954,
+      "dDurationMs": 269,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 53339.3981481482,
+      "dDurationMs": 556,
+      "segs": [
+        {
+          "utf8": "<br>うる"
+        }
+      ]
+    },
+    {
+      "tStartMs": 53896.3981481482,
+      "dDurationMs": 328,
+      "segs": [
+        {
+          "utf8": "さい"
+        }
+      ]
+    },
+    {
+      "tStartMs": 54225.3981481482,
+      "dDurationMs": 512,
+      "segs": [
+        {
+          "utf8": "これが"
+        }
+      ]
+    },
+    {
+      "tStartMs": 54738.3981481482,
+      "dDurationMs": 301,
+      "segs": [
+        {
+          "utf8": "持ち"
+        }
+      ]
+    },
+    {
+      "tStartMs": 55040.3981481482,
+      "dDurationMs": 396,
+      "segs": [
+        {
+          "utf8": "味"
+        }
+      ]
+    },
+    {
+      "tStartMs": 55437.3981481482,
+      "dDurationMs": 274,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 55876.7936507936,
+      "dDurationMs": 343,
+      "segs": [
+        {
+          "utf8": "<br>未"
+        }
+      ]
+    },
+    {
+      "tStartMs": 56220.7936507936,
+      "dDurationMs": 549.206349206353,
+      "segs": [
+        {
+          "utf8": "開拓"
+        }
+      ]
+    },
+    {
+      "tStartMs": 56771,
+      "dDurationMs": 752,
+      "segs": [
+        {
+          "utf8": "冒険地"
+        }
+      ]
+    },
+    {
+      "tStartMs": 57524,
+      "dDurationMs": 622,
+      "segs": [
+        {
+          "utf8": "帯∴"
+        }
+      ]
+    },
+    {
+      "tStartMs": 58401,
+      "dDurationMs": 354,
+      "segs": [
+        {
+          "utf8": "<br>好"
+        }
+      ]
+    },
+    {
+      "tStartMs": 58756,
+      "dDurationMs": 343,
+      "segs": [
+        {
+          "utf8": "奇"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59100,
+      "dDurationMs": 300,
+      "segs": [
+        {
+          "utf8": "心"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59401,
+      "dDurationMs": 761,
+      "segs": [
+        {
+          "utf8": "旺盛時"
+        }
+      ]
+    },
+    {
+      "tStartMs": 60163,
+      "dDurationMs": 528,
+      "segs": [
+        {
+          "utf8": "代"
+        }
+      ]
+    },
+    {
+      "tStartMs": 61038.0026455026,
+      "dDurationMs": 302.997354497355,
+      "segs": [
+        {
+          "utf8": "<br>何"
+        }
+      ]
+    },
+    {
+      "tStartMs": 61342,
+      "dDurationMs": 322,
+      "segs": [
+        {
+          "utf8": "が"
+        }
+      ]
+    },
+    {
+      "tStartMs": 61665,
+      "dDurationMs": 157,
+      "segs": [
+        {
+          "utf8": "綺"
+        }
+      ]
+    },
+    {
+      "tStartMs": 61823,
+      "dDurationMs": 336,
+      "segs": [
+        {
+          "utf8": "麗"
+        }
+      ]
+    },
+    {
+      "tStartMs": 62160,
+      "dDurationMs": 179,
+      "segs": [
+        {
+          "utf8": "か"
+        }
+      ]
+    },
+    {
+      "tStartMs": 62340,
+      "dDurationMs": 610,
+      "segs": [
+        {
+          "utf8": "は"
+        }
+      ]
+    },
+    {
+      "tStartMs": 62951,
+      "dDurationMs": 327,
+      "segs": [
+        {
+          "utf8": "分か"
+        }
+      ]
+    },
+    {
+      "tStartMs": 63279,
+      "dDurationMs": 269,
+      "segs": [
+        {
+          "utf8": "る"
+        }
+      ]
+    },
+    {
+      "tStartMs": 63776.3227513228,
+      "dDurationMs": 143,
+      "segs": [
+        {
+          "utf8": "<br>見"
+        }
+      ]
+    },
+    {
+      "tStartMs": 63920.3227513228,
+      "dDurationMs": 322.677248677246,
+      "segs": [
+        {
+          "utf8": "る"
+        }
+      ]
+    },
+    {
+      "tStartMs": 64244,
+      "dDurationMs": 211,
+      "segs": [
+        {
+          "utf8": "目"
+        }
+      ]
+    },
+    {
+      "tStartMs": 64456,
+      "dDurationMs": 264,
+      "segs": [
+        {
+          "utf8": "な"
+        }
+      ]
+    },
+    {
+      "tStartMs": 64721,
+      "dDurationMs": 242,
+      "segs": [
+        {
+          "utf8": "ら"
+        }
+      ]
+    },
+    {
+      "tStartMs": 64964,
+      "dDurationMs": 861,
+      "segs": [
+        {
+          "utf8": "ば"
+        }
+      ]
+    },
+    {
+      "tStartMs": 65826,
+      "dDurationMs": 190,
+      "segs": [
+        {
+          "utf8": "あ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 66017,
+      "dDurationMs": 412,
+      "segs": [
+        {
+          "utf8": "る"
+        }
+      ]
+    },
+    {
+      "tStartMs": 66430,
+      "dDurationMs": 413,
+      "segs": [
+        {
+          "utf8": "<br>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 67240.2037037037,
+      "dDurationMs": 714.796296296307,
+      "segs": [
+        {
+          "utf8": "<br>恥ずかしい"
+        }
+      ]
+    },
+    {
+      "tStartMs": 67956,
+      "dDurationMs": 121,
+      "segs": [
+        {
+          "utf8": "か"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68129.4907407407,
+      "dDurationMs": 305.509259259255,
+      "segs": [
+        {
+          "utf8": "青"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68436,
+      "dDurationMs": 332,
+      "segs": [
+        {
+          "utf8": "春"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68769,
+      "dDurationMs": 779,
+      "segs": [
+        {
+          "utf8": "は"
+        }
+      ]
+    },
+    {
+      "tStartMs": 69786.0687830688,
+      "dDurationMs": 788,
+      "segs": [
+        {
+          "utf8": "<br>馬鹿らしい"
+        }
+      ]
+    },
+    {
+      "tStartMs": 70575.0687830688,
+      "dDurationMs": 116,
+      "segs": [
+        {
+          "utf8": "か"
+        }
+      ]
+    },
+    {
+      "tStartMs": 70692.0687830688,
+      "dDurationMs": 1039.93121693122,
+      "segs": [
+        {
+          "utf8": "真剣は"
+        }
+      ]
+    },
+    {
+      "tStartMs": 71733,
+      "dDurationMs": 452,
+      "segs": [
+        {
+          "utf8": "<br>僕ら"
+        }
+      ]
+    },
+    {
+      "tStartMs": 72186,
+      "dDurationMs": 583,
+      "segs": [
+        {
+          "utf8": "全"
+        }
+      ]
+    },
+    {
+      "tStartMs": 72770,
+      "dDurationMs": 864,
+      "segs": [
+        {
+          "utf8": "力で"
+        }
+      ]
+    },
+    {
+      "tStartMs": 73635,
+      "dDurationMs": 398,
+      "segs": [
+        {
+          "utf8": "やっ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 74335,
+      "dDurationMs": 717,
+      "segs": [
+        {
+          "utf8": "て"
+        }
+      ]
+    },
+    {
+      "tStartMs": 75053,
+      "dDurationMs": 311,
+      "segs": [
+        {
+          "utf8": "ん"
+        }
+      ]
+    },
+    {
+      "tStartMs": 75365,
+      "dDurationMs": 869,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 76892.0634920635,
+      "dDurationMs": 886.936507936509,
+      "segs": [
+        {
+          "utf8": "<br>振りかざせ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 77780,
+      "dDurationMs": 746,
+      "segs": [
+        {
+          "utf8": "存在"
+        }
+      ]
+    },
+    {
+      "tStartMs": 78527,
+      "dDurationMs": 650,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 79529.0767195767,
+      "dDurationMs": 719,
+      "segs": [
+        {
+          "utf8": "<br>掻き乱せ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 80475.5621693122,
+      "dDurationMs": 660,
+      "segs": [
+        {
+          "utf8": "心臓"
+        }
+      ]
+    },
+    {
+      "tStartMs": 81136.5621693122,
+      "dDurationMs": 613,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 82014,
+      "dDurationMs": 291,
+      "segs": [
+        {
+          "utf8": "<br>あと"
+        }
+      ]
+    },
+    {
+      "tStartMs": 82306,
+      "dDurationMs": 745,
+      "segs": [
+        {
+          "utf8": "どれくら"
+        }
+      ]
+    },
+    {
+      "tStartMs": 83052,
+      "dDurationMs": 513,
+      "segs": [
+        {
+          "utf8": "い"
+        }
+      ]
+    },
+    {
+      "tStartMs": 83803.4391534392,
+      "dDurationMs": 788.560846560838,
+      "segs": [
+        {
+          "utf8": "<br>続いて"
+        }
+      ]
+    },
+    {
+      "tStartMs": 84593,
+      "dDurationMs": 333,
+      "segs": [
+        {
+          "utf8": "いく"
+        }
+      ]
+    },
+    {
+      "tStartMs": 84927,
+      "dDurationMs": 189,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 85117,
+      "dDurationMs": 1487,
+      "segs": [
+        {
+          "utf8": "ろう"
+        }
+      ]
+    },
+    {
+      "tStartMs": 87924.8015873016,
+      "dDurationMs": 873.198412698417,
+      "segs": [
+        {
+          "utf8": "<br>守り抜いた"
+        }
+      ]
+    },
+    {
+      "tStartMs": 88799,
+      "dDurationMs": 798,
+      "segs": [
+        {
+          "utf8": "青春"
+        }
+      ]
+    },
+    {
+      "tStartMs": 89598,
+      "dDurationMs": 714,
+      "segs": [
+        {
+          "utf8": "が"
+        }
+      ]
+    },
+    {
+      "tStartMs": 90517.2288359788,
+      "dDurationMs": 859.771164021164,
+      "segs": [
+        {
+          "utf8": "<br>何よりもの"
+        }
+      ]
+    },
+    {
+      "tStartMs": 91378,
+      "dDurationMs": 709,
+      "segs": [
+        {
+          "utf8": "贅沢"
+        }
+      ]
+    },
+    {
+      "tStartMs": 92088,
+      "dDurationMs": 425,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 92514,
+      "dDurationMs": 346,
+      "segs": [
+        {
+          "utf8": "<br>きっ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 92861,
+      "dDurationMs": 611,
+      "segs": [
+        {
+          "utf8": "と"
+        }
+      ]
+    },
+    {
+      "tStartMs": 93473,
+      "dDurationMs": 317,
+      "segs": [
+        {
+          "utf8": "いつ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 93791,
+      "dDurationMs": 340,
+      "segs": [
+        {
+          "utf8": "か"
+        }
+      ]
+    },
+    {
+      "tStartMs": 94392.6296296296,
+      "dDurationMs": 649.37037037038,
+      "segs": [
+        {
+          "utf8": "<br>焦がれ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 95043,
+      "dDurationMs": 802,
+      "segs": [
+        {
+          "utf8": "思"
+        }
+      ]
+    },
+    {
+      "tStartMs": 95846,
+      "dDurationMs": 213,
+      "segs": [
+        {
+          "utf8": "い"
+        }
+      ]
+    },
+    {
+      "tStartMs": 96060,
+      "dDurationMs": 254,
+      "segs": [
+        {
+          "utf8": "返"
+        }
+      ]
+    },
+    {
+      "tStartMs": 96315,
+      "dDurationMs": 1100,
+      "segs": [
+        {
+          "utf8": "す"
+        }
+      ]
+    },
+    {
+      "tStartMs": 97599.8015873016,
+      "dDurationMs": 1049.28835978836,
+      "segs": [
+        {
+          "utf8": "<br>名前のない"
+        }
+      ]
+    },
+    {
+      "tStartMs": 98650.0899470899,
+      "dDurationMs": 513.288359788348,
+      "segs": [
+        {
+          "utf8": "関係"
+        }
+      ]
+    },
+    {
+      "tStartMs": 99164.3783068783,
+      "dDurationMs": 762,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 100167.296296296,
+      "dDurationMs": 813.703703703708,
+      "segs": [
+        {
+          "utf8": "<br>捨てきれない"
+        }
+      ]
+    },
+    {
+      "tStartMs": 101166,
+      "dDurationMs": 642.421957671962,
+      "segs": [
+        {
+          "utf8": "感情"
+        }
+      ]
+    },
+    {
+      "tStartMs": 101809.421957672,
+      "dDurationMs": 762,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 102819.537037037,
+      "dDurationMs": 633.462962962964,
+      "segs": [
+        {
+          "utf8": "<br>何気"
+        }
+      ]
+    },
+    {
+      "tStartMs": 103454,
+      "dDurationMs": 630,
+      "segs": [
+        {
+          "utf8": "ない今日"
+        }
+      ]
+    },
+    {
+      "tStartMs": 104085,
+      "dDurationMs": 359,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 104565.113756614,
+      "dDurationMs": 840.886243386252,
+      "segs": [
+        {
+          "utf8": "<br>忘"
+        }
+      ]
+    },
+    {
+      "tStartMs": 105407,
+      "dDurationMs": 459,
+      "segs": [
+        {
+          "utf8": "れ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 105867,
+      "dDurationMs": 539,
+      "segs": [
+        {
+          "utf8": "ないで"
+        }
+      ]
+    },
+    {
+      "tStartMs": 106407,
+      "dDurationMs": 939.935185185182,
+      "segs": [
+        {
+          "utf8": "ね"
+        }
+      ]
+    },
+    {
+      "tStartMs": 107347.935185185,
+      "dDurationMs": 963,
+      "segs": [
+        {
+          "utf8": "<br>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 110916.17989418,
+      "dDurationMs": 698.820105820108,
+      "segs": [
+        {
+          "utf8": "<br>悩"
+        }
+      ]
+    },
+    {
+      "tStartMs": 111616,
+      "dDurationMs": 274,
+      "segs": [
+        {
+          "utf8": "んで"
+        }
+      ]
+    },
+    {
+      "tStartMs": 111891,
+      "dDurationMs": 703,
+      "segs": [
+        {
+          "utf8": "た"
+        }
+      ]
+    },
+    {
+      "tStartMs": 112946.100529101,
+      "dDurationMs": 625,
+      "segs": [
+        {
+          "utf8": "<br>種"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113572.100529101,
+      "dDurationMs": 168.899470899472,
+      "segs": [
+        {
+          "utf8": "の"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113742,
+      "dDurationMs": 628,
+      "segs": [
+        {
+          "utf8": "色"
+        }
+      ]
+    },
+    {
+      "tStartMs": 114371,
+      "dDurationMs": 1417,
+      "segs": [
+        {
+          "utf8": "が"
+        }
+      ]
+    },
+    {
+      "tStartMs": 116122.656069841,
+      "dDurationMs": 1647.34393015872,
+      "segs": [
+        {
+          "utf8": "<br>昨日とは"
+        }
+      ]
+    },
+    {
+      "tStartMs": 117771,
+      "dDurationMs": 1029,
+      "segs": [
+        {
+          "utf8": "まるで"
+        }
+      ]
+    },
+    {
+      "tStartMs": 118801,
+      "dDurationMs": 558,
+      "segs": [
+        {
+          "utf8": "違"
+        }
+      ]
+    },
+    {
+      "tStartMs": 119360,
+      "dDurationMs": 401,
+      "segs": [
+        {
+          "utf8": "うと"
+        }
+      ]
+    },
+    {
+      "tStartMs": 119762,
+      "dDurationMs": 922,
+      "segs": [
+        {
+          "utf8": "か"
+        }
+      ]
+    },
+    {
+      "tStartMs": 120961.76453545,
+      "dDurationMs": 690,
+      "segs": [
+        {
+          "utf8": "<br>そんなの"
+        }
+      ]
+    },
+    {
+      "tStartMs": 121652.76453545,
+      "dDurationMs": 907.235464550249,
+      "segs": [
+        {
+          "utf8": "日常"
+        }
+      ]
+    },
+    {
+      "tStartMs": 122561,
+      "dDurationMs": 455,
+      "segs": [
+        {
+          "utf8": "茶飯"
+        }
+      ]
+    },
+    {
+      "tStartMs": 123017,
+      "dDurationMs": 518,
+      "segs": [
+        {
+          "utf8": "事だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 123536,
+      "dDurationMs": 500,
+      "segs": [
+        {
+          "utf8": "ね"
+        }
+      ]
+    },
+    {
+      "tStartMs": 124334.19047619,
+      "dDurationMs": 1190.80952380953,
+      "segs": [
+        {
+          "utf8": "<br>心は"
+        }
+      ]
+    },
+    {
+      "tStartMs": 125526,
+      "dDurationMs": 1286,
+      "segs": [
+        {
+          "utf8": "素直の"
+        }
+      ]
+    },
+    {
+      "tStartMs": 126813,
+      "dDurationMs": 494,
+      "segs": [
+        {
+          "utf8": "よう"
+        }
+      ]
+    },
+    {
+      "tStartMs": 127308,
+      "dDurationMs": 751,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 128060,
+      "dDurationMs": 878,
+      "segs": [
+        {
+          "utf8": "<br>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 129407.285714286,
+      "dDurationMs": 713.714285714304,
+      "segs": [
+        {
+          "utf8": "<br>戦友"
+        }
+      ]
+    },
+    {
+      "tStartMs": 130122,
+      "dDurationMs": 405.285714285696,
+      "segs": [
+        {
+          "utf8": "だとか"
+        }
+      ]
+    },
+    {
+      "tStartMs": 130528.285714286,
+      "dDurationMs": 1195.99999999999,
+      "segs": [
+        {
+          "utf8": "親友は"
+        }
+      ]
+    },
+    {
+      "tStartMs": 131953.75530582,
+      "dDurationMs": 132,
+      "segs": [
+        {
+          "utf8": "<br>う"
+        }
+      ]
+    },
+    {
+      "tStartMs": 132086.75530582,
+      "dDurationMs": 279,
+      "segs": [
+        {
+          "utf8": "る"
+        }
+      ]
+    },
+    {
+      "tStartMs": 132366.75530582,
+      "dDurationMs": 390,
+      "segs": [
+        {
+          "utf8": "さい"
+        }
+      ]
+    },
+    {
+      "tStartMs": 132757.75530582,
+      "dDurationMs": 380,
+      "segs": [
+        {
+          "utf8": "どれも"
+        }
+      ]
+    },
+    {
+      "tStartMs": 133138.75530582,
+      "dDurationMs": 399,
+      "segs": [
+        {
+          "utf8": "正"
+        }
+      ]
+    },
+    {
+      "tStartMs": 133538.75530582,
+      "dDurationMs": 486,
+      "segs": [
+        {
+          "utf8": "解"
+        }
+      ]
+    },
+    {
+      "tStartMs": 134025.75530582,
+      "dDurationMs": 267,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 134639.130848677,
+      "dDurationMs": 655.869151322695,
+      "segs": [
+        {
+          "utf8": "<br>初恋"
+        }
+      ]
+    },
+    {
+      "tStartMs": 135296,
+      "dDurationMs": 385,
+      "segs": [
+        {
+          "utf8": "だとか"
+        }
+      ]
+    },
+    {
+      "tStartMs": 135682,
+      "dDurationMs": 1248,
+      "segs": [
+        {
+          "utf8": "失恋は"
+        }
+      ]
+    },
+    {
+      "tStartMs": 137083.71562328,
+      "dDurationMs": 116,
+      "segs": [
+        {
+          "utf8": "<br>う"
+        }
+      ]
+    },
+    {
+      "tStartMs": 137200.71562328,
+      "dDurationMs": 368,
+      "segs": [
+        {
+          "utf8": "る"
+        }
+      ]
+    },
+    {
+      "tStartMs": 137569.71562328,
+      "dDurationMs": 295.284376719588,
+      "segs": [
+        {
+          "utf8": "さい"
+        }
+      ]
+    },
+    {
+      "tStartMs": 137866,
+      "dDurationMs": 533.715623280412,
+      "segs": [
+        {
+          "utf8": "どれも"
+        }
+      ]
+    },
+    {
+      "tStartMs": 138400.71562328,
+      "dDurationMs": 279,
+      "segs": [
+        {
+          "utf8": "宝"
+        }
+      ]
+    },
+    {
+      "tStartMs": 138680.71562328,
+      "dDurationMs": 467.284376719588,
+      "segs": [
+        {
+          "utf8": "石"
+        }
+      ]
+    },
+    {
+      "tStartMs": 139149,
+      "dDurationMs": 302.715623280412,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 139452.71562328,
+      "dDurationMs": 398,
+      "segs": [
+        {
+          "utf8": "<br>天"
+        }
+      ]
+    },
+    {
+      "tStartMs": 139851.71562328,
+      "dDurationMs": 568.284376719588,
+      "segs": [
+        {
+          "utf8": "才的"
+        }
+      ]
+    },
+    {
+      "tStartMs": 140421,
+      "dDurationMs": 748,
+      "segs": [
+        {
+          "utf8": "人生企"
+        }
+      ]
+    },
+    {
+      "tStartMs": 141170,
+      "dDurationMs": 631,
+      "segs": [
+        {
+          "utf8": "画≒"
+        }
+      ]
+    },
+    {
+      "tStartMs": 142079.428571429,
+      "dDurationMs": 1659.96294814817,
+      "segs": [
+        {
+          "utf8": "<br>問題集対抗美"
+        }
+      ]
+    },
+    {
+      "tStartMs": 143740.391519577,
+      "dDurationMs": 620,
+      "segs": [
+        {
+          "utf8": "学"
+        }
+      ]
+    },
+    {
+      "tStartMs": 144733.740740741,
+      "dDurationMs": 293.259259259241,
+      "segs": [
+        {
+          "utf8": "<br>君"
+        }
+      ]
+    },
+    {
+      "tStartMs": 145028,
+      "dDurationMs": 318,
+      "segs": [
+        {
+          "utf8": "は"
+        }
+      ]
+    },
+    {
+      "tStartMs": 145347,
+      "dDurationMs": 464,
+      "segs": [
+        {
+          "utf8": "なに"
+        }
+      ]
+    },
+    {
+      "tStartMs": 145812,
+      "dDurationMs": 220,
+      "segs": [
+        {
+          "utf8": "し"
+        }
+      ]
+    },
+    {
+      "tStartMs": 146033,
+      "dDurationMs": 432,
+      "segs": [
+        {
+          "utf8": "て"
+        }
+      ]
+    },
+    {
+      "tStartMs": 146466,
+      "dDurationMs": 423,
+      "segs": [
+        {
+          "utf8": "んのか"
+        }
+      ]
+    },
+    {
+      "tStartMs": 146890,
+      "dDurationMs": 470,
+      "segs": [
+        {
+          "utf8": "な"
+        }
+      ]
+    },
+    {
+      "tStartMs": 147455.470840212,
+      "dDurationMs": 604.529159788275,
+      "segs": [
+        {
+          "utf8": "<br>話"
+        }
+      ]
+    },
+    {
+      "tStartMs": 148061,
+      "dDurationMs": 301,
+      "segs": [
+        {
+          "utf8": "が"
+        }
+      ]
+    },
+    {
+      "tStartMs": 148363,
+      "dDurationMs": 126,
+      "segs": [
+        {
+          "utf8": "し"
+        }
+      ]
+    },
+    {
+      "tStartMs": 148490,
+      "dDurationMs": 1046,
+      "segs": [
+        {
+          "utf8": "た"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149537,
+      "dDurationMs": 423,
+      "segs": [
+        {
+          "utf8": "い"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149961,
+      "dDurationMs": 169,
+      "segs": [
+        {
+          "utf8": "<br>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 150253.35978836,
+      "dDurationMs": 858.640211640217,
+      "segs": [
+        {
+          "utf8": "<br>風に乗って"
+        }
+      ]
+    },
+    {
+      "tStartMs": 151113,
+      "dDurationMs": 704,
+      "segs": [
+        {
+          "utf8": "青春"
+        }
+      ]
+    },
+    {
+      "tStartMs": 151818,
+      "dDurationMs": 760,
+      "segs": [
+        {
+          "utf8": "が"
+        }
+      ]
+    },
+    {
+      "tStartMs": 152824.234112169,
+      "dDurationMs": 221.765887830668,
+      "segs": [
+        {
+          "utf8": "<br>この"
+        }
+      ]
+    },
+    {
+      "tStartMs": 153047,
+      "dDurationMs": 576,
+      "segs": [
+        {
+          "utf8": "想"
+        }
+      ]
+    },
+    {
+      "tStartMs": 153624,
+      "dDurationMs": 740,
+      "segs": [
+        {
+          "utf8": "いを運ん"
+        }
+      ]
+    },
+    {
+      "tStartMs": 154365,
+      "dDurationMs": 412,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 154778,
+      "dDurationMs": 394,
+      "segs": [
+        {
+          "utf8": "<br>僕ら"
+        }
+      ]
+    },
+    {
+      "tStartMs": 155173,
+      "dDurationMs": 497,
+      "segs": [
+        {
+          "utf8": "全"
+        }
+      ]
+    },
+    {
+      "tStartMs": 155671,
+      "dDurationMs": 745,
+      "segs": [
+        {
+          "utf8": "力"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156417,
+      "dDurationMs": 101,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156519,
+      "dDurationMs": 232,
+      "segs": [
+        {
+          "utf8": "越"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156752,
+      "dDurationMs": 354,
+      "segs": [
+        {
+          "utf8": "え"
+        }
+      ]
+    },
+    {
+      "tStartMs": 157379.660038095,
+      "dDurationMs": 820,
+      "segs": [
+        {
+          "utf8": "た"
+        }
+      ]
+    },
+    {
+      "tStartMs": 158200.660038095,
+      "dDurationMs": 185.33996190477,
+      "segs": [
+        {
+          "utf8": "いん"
+        }
+      ]
+    },
+    {
+      "tStartMs": 158387,
+      "dDurationMs": 1116,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 159902.033068783,
+      "dDurationMs": 749,
+      "segs": [
+        {
+          "utf8": "<br>立ちすくむ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 160921.182554497,
+      "dDurationMs": 529.817445502646,
+      "segs": [
+        {
+          "utf8": "同士だっ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 161629.486757672,
+      "dDurationMs": 716,
+      "segs": [
+        {
+          "utf8": "て"
+        }
+      ]
+    },
+    {
+      "tStartMs": 162475.906055026,
+      "dDurationMs": 1011,
+      "segs": [
+        {
+          "utf8": "<br>引き連れて"
+        }
+      ]
+    },
+    {
+      "tStartMs": 163487.906055026,
+      "dDurationMs": 403.093944973574,
+      "segs": [
+        {
+          "utf8": "い"
+        }
+      ]
+    },
+    {
+      "tStartMs": 163892,
+      "dDurationMs": 309.906055026426,
+      "segs": [
+        {
+          "utf8": "こう"
+        }
+      ]
+    },
+    {
+      "tStartMs": 164202.906055026,
+      "dDurationMs": 689,
+      "segs": [
+        {
+          "utf8": "ぜ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 165193.834670899,
+      "dDurationMs": 1235,
+      "segs": [
+        {
+          "utf8": "<br>この上ない今日"
+        }
+      ]
+    },
+    {
+      "tStartMs": 166429.834670899,
+      "dDurationMs": 304,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 166929.572751323,
+      "dDurationMs": 172,
+      "segs": [
+        {
+          "utf8": "<br>過"
+        }
+      ]
+    },
+    {
+      "tStartMs": 167102.572751323,
+      "dDurationMs": 346.427248677268,
+      "segs": [
+        {
+          "utf8": "ご"
+        }
+      ]
+    },
+    {
+      "tStartMs": 167450,
+      "dDurationMs": 287,
+      "segs": [
+        {
+          "utf8": "し"
+        }
+      ]
+    },
+    {
+      "tStartMs": 167738,
+      "dDurationMs": 346,
+      "segs": [
+        {
+          "utf8": "て"
+        }
+      ]
+    },
+    {
+      "tStartMs": 168085,
+      "dDurationMs": 422,
+      "segs": [
+        {
+          "utf8": "いたい"
+        }
+      ]
+    },
+    {
+      "tStartMs": 168508,
+      "dDurationMs": 1015,
+      "segs": [
+        {
+          "utf8": "よ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 169524,
+      "dDurationMs": 884,
+      "segs": [
+        {
+          "utf8": "<br>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 178588.942460317,
+      "dDurationMs": 513.057539682573,
+      "segs": [
+        {
+          "utf8": "<br>今"
+        }
+      ]
+    },
+    {
+      "tStartMs": 179103,
+      "dDurationMs": 613,
+      "segs": [
+        {
+          "utf8": "しかでき"
+        }
+      ]
+    },
+    {
+      "tStartMs": 179717,
+      "dDurationMs": 353,
+      "segs": [
+        {
+          "utf8": "ない"
+        }
+      ]
+    },
+    {
+      "tStartMs": 180356.523809524,
+      "dDurationMs": 840,
+      "segs": [
+        {
+          "utf8": "事がある"
+        }
+      ]
+    },
+    {
+      "tStartMs": 181197.523809524,
+      "dDurationMs": 506.476190476184,
+      "segs": [
+        {
+          "utf8": "<br>今"
+        }
+      ]
+    },
+    {
+      "tStartMs": 181705,
+      "dDurationMs": 958,
+      "segs": [
+        {
+          "utf8": "しかできない"
+        }
+      ]
+    },
+    {
+      "tStartMs": 182897.899470899,
+      "dDurationMs": 765.100529100513,
+      "segs": [
+        {
+          "utf8": "恋がある"
+        }
+      ]
+    },
+    {
+      "tStartMs": 183831.644047619,
+      "dDurationMs": 410.355952380953,
+      "segs": [
+        {
+          "utf8": "<br>今"
+        }
+      ]
+    },
+    {
+      "tStartMs": 184243,
+      "dDurationMs": 717,
+      "segs": [
+        {
+          "utf8": "しかでき"
+        }
+      ]
+    },
+    {
+      "tStartMs": 184961,
+      "dDurationMs": 269,
+      "segs": [
+        {
+          "utf8": "ない"
+        }
+      ]
+    },
+    {
+      "tStartMs": 185573.53968254,
+      "dDurationMs": 254,
+      "segs": [
+        {
+          "utf8": "から"
+        }
+      ]
+    },
+    {
+      "tStartMs": 185828.53968254,
+      "dDurationMs": 687,
+      "segs": [
+        {
+          "utf8": "<br>僕らに"
+        }
+      ]
+    },
+    {
+      "tStartMs": 186516.53968254,
+      "dDurationMs": 1245,
+      "segs": [
+        {
+          "utf8": "託された時間"
+        }
+      ]
+    },
+    {
+      "tStartMs": 187762.53968254,
+      "dDurationMs": 288.460317460325,
+      "segs": [
+        {
+          "utf8": "が"
+        }
+      ]
+    },
+    {
+      "tStartMs": 188231,
+      "dDurationMs": 217.142857142841,
+      "segs": [
+        {
+          "utf8": "惜"
+        }
+      ]
+    },
+    {
+      "tStartMs": 188449.142857143,
+      "dDurationMs": 311,
+      "segs": [
+        {
+          "utf8": "しい"
+        }
+      ]
+    },
+    {
+      "tStartMs": 188995.24484127,
+      "dDurationMs": 438.755158730142,
+      "segs": [
+        {
+          "utf8": "<br>今"
+        }
+      ]
+    },
+    {
+      "tStartMs": 189435,
+      "dDurationMs": 187,
+      "segs": [
+        {
+          "utf8": "しか見"
+        }
+      ]
+    },
+    {
+      "tStartMs": 189623,
+      "dDurationMs": 745,
+      "segs": [
+        {
+          "utf8": "られない"
+        }
+      ]
+    },
+    {
+      "tStartMs": 190761,
+      "dDurationMs": 984,
+      "segs": [
+        {
+          "utf8": "<br>君の笑顔"
+        }
+      ]
+    },
+    {
+      "tStartMs": 191746,
+      "dDurationMs": 121,
+      "segs": [
+        {
+          "utf8": "も"
+        }
+      ]
+    },
+    {
+      "tStartMs": 192007.317328042,
+      "dDurationMs": 1181.19973544971,
+      "segs": [
+        {
+          "utf8": "<br>君の涙も"
+        }
+      ]
+    },
+    {
+      "tStartMs": 193307.243386243,
+      "dDurationMs": 980,
+      "segs": [
+        {
+          "utf8": "<br>君の全て"
+        }
+      ]
+    },
+    {
+      "tStartMs": 194288.243386243,
+      "dDurationMs": 938,
+      "segs": [
+        {
+          "utf8": "も"
+        }
+      ]
+    },
+    {
+      "tStartMs": 195373,
+      "dDurationMs": 857.740608465596,
+      "segs": [
+        {
+          "utf8": "<br>大人"
+        }
+      ]
+    },
+    {
+      "tStartMs": 196231.740608466,
+      "dDurationMs": 499.259391534404,
+      "segs": [
+        {
+          "utf8": "び"
+        }
+      ]
+    },
+    {
+      "tStartMs": 196732,
+      "dDurationMs": 152,
+      "segs": [
+        {
+          "utf8": "て"
+        }
+      ]
+    },
+    {
+      "tStartMs": 196885,
+      "dDurationMs": 2306,
+      "segs": [
+        {
+          "utf8": "く"
+        }
+      ]
+    },
+    {
+      "tStartMs": 199192,
+      "dDurationMs": 256,
+      "segs": [
+        {
+          "utf8": "<br>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 199449,
+      "dDurationMs": 690,
+      "segs": [
+        {
+          "utf8": "<br>有限"
+        }
+      ]
+    },
+    {
+      "tStartMs": 200140,
+      "dDurationMs": 454,
+      "segs": [
+        {
+          "utf8": "だから"
+        }
+      ]
+    },
+    {
+      "tStartMs": 200595,
+      "dDurationMs": 438,
+      "segs": [
+        {
+          "utf8": "最"
+        }
+      ]
+    },
+    {
+      "tStartMs": 201034,
+      "dDurationMs": 449,
+      "segs": [
+        {
+          "utf8": "高"
+        }
+      ]
+    },
+    {
+      "tStartMs": 201484,
+      "dDurationMs": 359,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 201844,
+      "dDurationMs": 210,
+      "segs": [
+        {
+          "utf8": "<br>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 202055,
+      "dDurationMs": 1585,
+      "segs": [
+        {
+          "utf8": "<br>恥ずかしいか青春"
+        }
+      ]
+    },
+    {
+      "tStartMs": 203641,
+      "dDurationMs": 787,
+      "segs": [
+        {
+          "utf8": "は"
+        }
+      ]
+    },
+    {
+      "tStartMs": 204741.444444444,
+      "dDurationMs": 776,
+      "segs": [
+        {
+          "utf8": "<br>馬鹿らしい"
+        }
+      ]
+    },
+    {
+      "tStartMs": 205518.444444444,
+      "dDurationMs": 119,
+      "segs": [
+        {
+          "utf8": "か"
+        }
+      ]
+    },
+    {
+      "tStartMs": 205638.444444444,
+      "dDurationMs": 996.555555555562,
+      "segs": [
+        {
+          "utf8": "真剣は"
+        }
+      ]
+    },
+    {
+      "tStartMs": 206636,
+      "dDurationMs": 420,
+      "segs": [
+        {
+          "utf8": "<br>僕ら"
+        }
+      ]
+    },
+    {
+      "tStartMs": 207057,
+      "dDurationMs": 486,
+      "segs": [
+        {
+          "utf8": "全"
+        }
+      ]
+    },
+    {
+      "tStartMs": 207544,
+      "dDurationMs": 618,
+      "segs": [
+        {
+          "utf8": "力"
+        }
+      ]
+    },
+    {
+      "tStartMs": 208163,
+      "dDurationMs": 423,
+      "segs": [
+        {
+          "utf8": "で"
+        }
+      ]
+    },
+    {
+      "tStartMs": 208587,
+      "dDurationMs": 388,
+      "segs": [
+        {
+          "utf8": "やっ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 209282.034391534,
+      "dDurationMs": 736.965608465631,
+      "segs": [
+        {
+          "utf8": "て"
+        }
+      ]
+    },
+    {
+      "tStartMs": 210020,
+      "dDurationMs": 224,
+      "segs": [
+        {
+          "utf8": "ん"
+        }
+      ]
+    },
+    {
+      "tStartMs": 210245,
+      "dDurationMs": 963,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 211847,
+      "dDurationMs": 892,
+      "segs": [
+        {
+          "utf8": "<br>振りかざせ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 212740,
+      "dDurationMs": 675,
+      "segs": [
+        {
+          "utf8": "存在"
+        }
+      ]
+    },
+    {
+      "tStartMs": 213416,
+      "dDurationMs": 635,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 214400.396825397,
+      "dDurationMs": 715,
+      "segs": [
+        {
+          "utf8": "<br>掻き乱せ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 215356.158730159,
+      "dDurationMs": 645,
+      "segs": [
+        {
+          "utf8": "心臓"
+        }
+      ]
+    },
+    {
+      "tStartMs": 216002.158730159,
+      "dDurationMs": 632.841269841301,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 216974.501058201,
+      "dDurationMs": 1014,
+      "segs": [
+        {
+          "utf8": "<br>胸に刻め"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217989.501058201,
+      "dDurationMs": 531.498941798956,
+      "segs": [
+        {
+          "utf8": "ば"
+        }
+      ]
+    },
+    {
+      "tStartMs": 218725.405291005,
+      "dDurationMs": 798.594708994729,
+      "segs": [
+        {
+          "utf8": "<br>続いて"
+        }
+      ]
+    },
+    {
+      "tStartMs": 219525,
+      "dDurationMs": 380,
+      "segs": [
+        {
+          "utf8": "いく"
+        }
+      ]
+    },
+    {
+      "tStartMs": 219906,
+      "dDurationMs": 115,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 220022,
+      "dDurationMs": 1508.70687830684,
+      "segs": [
+        {
+          "utf8": "ろう"
+        }
+      ]
+    },
+    {
+      "tStartMs": 222815.44973545,
+      "dDurationMs": 892.550264550257,
+      "segs": [
+        {
+          "utf8": "<br>守り抜いた"
+        }
+      ]
+    },
+    {
+      "tStartMs": 223709,
+      "dDurationMs": 777,
+      "segs": [
+        {
+          "utf8": "青春"
+        }
+      ]
+    },
+    {
+      "tStartMs": 224487,
+      "dDurationMs": 624,
+      "segs": [
+        {
+          "utf8": "が"
+        }
+      ]
+    },
+    {
+      "tStartMs": 225390.533994709,
+      "dDurationMs": 975,
+      "segs": [
+        {
+          "utf8": "<br>何よりもの"
+        }
+      ]
+    },
+    {
+      "tStartMs": 226366.533994709,
+      "dDurationMs": 613.466005290975,
+      "segs": [
+        {
+          "utf8": "贅沢"
+        }
+      ]
+    },
+    {
+      "tStartMs": 226981,
+      "dDurationMs": 481,
+      "segs": [
+        {
+          "utf8": "だ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 227463,
+      "dDurationMs": 277,
+      "segs": [
+        {
+          "utf8": "<br>きっ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 227741,
+      "dDurationMs": 618,
+      "segs": [
+        {
+          "utf8": "と"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228360,
+      "dDurationMs": 662,
+      "segs": [
+        {
+          "utf8": "いつか"
+        }
+      ]
+    },
+    {
+      "tStartMs": 229302.453835979,
+      "dDurationMs": 381,
+      "segs": [
+        {
+          "utf8": "焦が"
+        }
+      ]
+    },
+    {
+      "tStartMs": 229684.453835979,
+      "dDurationMs": 283.933730158722,
+      "segs": [
+        {
+          "utf8": "れ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 229969.387566138,
+      "dDurationMs": 802,
+      "segs": [
+        {
+          "utf8": "思"
+        }
+      ]
+    },
+    {
+      "tStartMs": 230772.387566138,
+      "dDurationMs": 189,
+      "segs": [
+        {
+          "utf8": "い"
+        }
+      ]
+    },
+    {
+      "tStartMs": 230962.387566138,
+      "dDurationMs": 276.612433862436,
+      "segs": [
+        {
+          "utf8": "返"
+        }
+      ]
+    },
+    {
+      "tStartMs": 231244.806746032,
+      "dDurationMs": 1063,
+      "segs": [
+        {
+          "utf8": "す"
+        }
+      ]
+    },
+    {
+      "tStartMs": 232544.742063492,
+      "dDurationMs": 815,
+      "segs": [
+        {
+          "utf8": "<br>名前のない"
+        }
+      ]
+    },
+    {
+      "tStartMs": 233493.063492063,
+      "dDurationMs": 701.936507936538,
+      "segs": [
+        {
+          "utf8": "関係"
+        }
+      ]
+    },
+    {
+      "tStartMs": 234196,
+      "dDurationMs": 570,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 235093.911243386,
+      "dDurationMs": 1013.08875661378,
+      "segs": [
+        {
+          "utf8": "<br>捨てきれない"
+        }
+      ]
+    },
+    {
+      "tStartMs": 236108,
+      "dDurationMs": 640,
+      "segs": [
+        {
+          "utf8": "感情"
+        }
+      ]
+    },
+    {
+      "tStartMs": 236749,
+      "dDurationMs": 759,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 237766.007671958,
+      "dDurationMs": 607.992328042281,
+      "segs": [
+        {
+          "utf8": "<br>何気"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238375,
+      "dDurationMs": 632,
+      "segs": [
+        {
+          "utf8": "ない今日"
+        }
+      ]
+    },
+    {
+      "tStartMs": 239012.841137566,
+      "dDurationMs": 444,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 239609.985449735,
+      "dDurationMs": 781,
+      "segs": [
+        {
+          "utf8": "<br>忘"
+        }
+      ]
+    },
+    {
+      "tStartMs": 240391.985449735,
+      "dDurationMs": 390.014550264576,
+      "segs": [
+        {
+          "utf8": "れ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 240783,
+      "dDurationMs": 454,
+      "segs": [
+        {
+          "utf8": "ないで"
+        }
+      ]
+    },
+    {
+      "tStartMs": 241238,
+      "dDurationMs": 1373,
+      "segs": [
+        {
+          "utf8": "ね"
+        }
+      ]
+    },
+    {
+      "tStartMs": 242612,
+      "dDurationMs": 169,
+      "segs": [
+        {
+          "utf8": "<br>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 242885.487962963,
+      "dDurationMs": 656.512037036999,
+      "segs": [
+        {
+          "utf8": "<br>この上"
+        }
+      ]
+    },
+    {
+      "tStartMs": 243543,
+      "dDurationMs": 689,
+      "segs": [
+        {
+          "utf8": "ない今日"
+        }
+      ]
+    },
+    {
+      "tStartMs": 244233,
+      "dDurationMs": 428,
+      "segs": [
+        {
+          "utf8": "を"
+        }
+      ]
+    },
+    {
+      "tStartMs": 244795.076587302,
+      "dDurationMs": 694.923412698408,
+      "segs": [
+        {
+          "utf8": "<br>忘"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245491,
+      "dDurationMs": 565,
+      "segs": [
+        {
+          "utf8": "れ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 246057,
+      "dDurationMs": 402,
+      "segs": [
+        {
+          "utf8": "ないで"
+        }
+      ]
+    },
+    {
+      "tStartMs": 246460,
+      "dDurationMs": 2415,
+      "segs": [
+        {
+          "utf8": "ね"
+        }
+      ]
+    },
+    {
+      "tStartMs": 248876,
+      "dDurationMs": 481,
+      "segs": [
+        {
+          "utf8": "<br>"
+        }
+      ]
+    }
+  ]
+}
